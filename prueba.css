@@ -1,0 +1,57 @@
+*{
+    text-align: center;
+    text-align: justify ;
+}
+
+.grid{
+    border-radius: 3%;
+margin: 20%;
+}
+.grid{
+  
+    display: grid;
+    grid-template-columns: 800px 90px 90px ;
+    grid-template-rows: 580px 100px 100px ;
+    grid-column-gap:1%;
+    grid-row-gap: 3%;
+}
+.a:nth-of-type(){
+    background-color: chocolate;
+    border-radius: 3%;
+}
+.b{
+    background-color: chocolate;
+    float: right;
+    border-radius: 3%;
+}
+.c{
+    background-color: chocolate;
+    float: right;
+    border-radius: 3%;
+}
+.d{
+    background-color: chocolate;
+    border-radius: 3%;
+}
+.e{
+    background-color: chocolate;
+    border-radius: 3%;
+}
+.f{
+    background-color: chocolate;
+}
+.g{
+    background-color: chocolate;
+}
+.h{
+    background-color: chocolate;
+}
+.i{
+    background-color: chocolate;
+}
+.j{
+    background-color: chocolate;
+}
+.k{
+    background-color: chocolate;
+}
